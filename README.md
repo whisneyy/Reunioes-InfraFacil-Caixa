@@ -287,3 +287,27 @@ Sandir Rodrigues Campos
 32 minutos 27 segundos32:27
 Sandir Rodrigues Campos 32 minutos 27 segundos
 Okay.
+---
+
+URL Openshift ARO
+ 
+https://console-openshift-console.apps.aroidpprd.brazilsouth.aroapp.io/
+
+FUSIONX DES
+ 
+YAML
+https://backstage-caixa-des-developer-hub
+
+FUSIONX PRD
+ 
+YAML
+https://fusionx.caixa
+
+repositório GITHUB de cofiguração:
+ 
+YAML
+https://github.com/caixagithub/software-template-devhub
+
+repositório de customização:
+ 
+https://github.com/caixagithub/gitops-infra
